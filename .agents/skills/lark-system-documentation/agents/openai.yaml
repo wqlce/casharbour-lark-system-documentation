@@ -1,0 +1,4 @@
+interface:
+  display_name: "系统文档归档"
+  short_description: "按飞书知识库标准完成系统文档编写、归档、验收与复核流程"
+  default_prompt: "使用 $lark-system-documentation 为科研营项目的报名功能创建产品文档和技术文档并归档。"
