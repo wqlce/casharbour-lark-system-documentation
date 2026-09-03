@@ -12,6 +12,7 @@
 - [产品文档通用模板](https://cas-harbour.feishu.cn/wiki/JOjYwEwXkiLHGJkrvkCcY6Yen6f)
 - [技术文档通用模板](https://cas-harbour.feishu.cn/wiki/M6vGwlUwKiAsbmkMnH0cwow3nxb)
 - [需求交付草案与文档拆分流程](https://cas-harbour.feishu.cn/wiki/QEOowMYodiVhhjkFXw1cA537nbd)
+- [版本控制指南](https://cas-harbour.feishu.cn/wiki/Snk3wZC7pi8sNwk1Sx9c1LdNngc)
 
 ## 目录定位原则
 
