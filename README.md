@@ -45,4 +45,13 @@ cd casharbour-lark-system-documentation
 
 ## 维护
 
-知识库内的《知识库文档编写与维护规则》、产品模板与技术模板是当前标准来源。更新这些规则后，Skill 会在下次运行时读取最新版本，无需同步复制模板正文。
+知识库内的《知识库文档编写与维护规则》、产品模板、技术模板及《更新日志通用模板（业务版）》是当前标准来源。Skill每次从飞书读取最新规则，不在仓库另存一份模板正文。
+
+更新日志默认按“开头文档信息表 → 原始需求与本次范围 → 本次变化 → 分项验收与待办 → 注意事项与恢复处理 → 关联资料”组织。业务版正文说明用户变化，代码分支、提交、日志和恢复步骤统一放关联技术记录。
+
+文档负责人默认取执行时飞书CLI已验证的当前登录用户，通过`lark-cli auth status --json --verify`核实姓名与有效user身份后填写，不留空或写待指定，不照抄他人的登录账号。用户另有明确指定时采用指定人。
+
+- [知识库文档编写与维护规则](https://cas-harbour.feishu.cn/wiki/C1DSwr1VAiXxktku0MRcMRMln6e)
+- [更新日志通用模板（业务版）](https://cas-harbour.feishu.cn/wiki/CnIbw6aJiiZFJsk3m0Ccd20RnMh)
+
+已有使用者可在本仓库执行`git pull --ff-only`更新Skill。拉取Skill仅更新写作指引，不部署业务系统、不改变知识库权限。

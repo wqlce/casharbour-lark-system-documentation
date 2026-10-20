@@ -11,7 +11,9 @@
 - [知识库文档编写与维护规则](https://cas-harbour.feishu.cn/wiki/C1DSwr1VAiXxktku0MRcMRMln6e)
 - [产品文档通用模板](https://cas-harbour.feishu.cn/wiki/JOjYwEwXkiLHGJkrvkCcY6Yen6f)
 - [技术文档通用模板](https://cas-harbour.feishu.cn/wiki/M6vGwlUwKiAsbmkMnH0cwow3nxb)
+- [更新日志通用模板（业务版）](https://cas-harbour.feishu.cn/wiki/CnIbw6aJiiZFJsk3m0Ccd20RnMh)
 - [需求交付草案与文档拆分流程](https://cas-harbour.feishu.cn/wiki/QEOowMYodiVhhjkFXw1cA537nbd)
+- [版本控制指南](https://cas-harbour.feishu.cn/wiki/Snk3wZC7pi8sNwk1Sx9c1LdNngc)
 
 系统简称、子项目标识与文档编号前缀须从上述《知识库文档编写与维护规则》实时读取；本文件仅保存治理文档入口，不缓存简称表。
 
