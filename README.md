@@ -15,8 +15,8 @@
 克隆本仓库后，在 Codex 中打开仓库根目录即可。Codex 会从 `.agents/skills` 识别该 Skill；若未立即显示，重新打开任务或重启 Codex。
 
 ```bash
-git clone https://github.com/wqlce/lark-system-documentation.git
-cd lark-system-documentation
+git clone https://github.com/wqlce/casharbour-lark-system-documentation.git
+cd casharbour-lark-system-documentation
 ```
 
 ## 前置条件

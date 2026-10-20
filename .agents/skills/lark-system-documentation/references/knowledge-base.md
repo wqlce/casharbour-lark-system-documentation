@@ -13,6 +13,8 @@
 - [技术文档通用模板](https://cas-harbour.feishu.cn/wiki/M6vGwlUwKiAsbmkMnH0cwow3nxb)
 - [需求交付草案与文档拆分流程](https://cas-harbour.feishu.cn/wiki/QEOowMYodiVhhjkFXw1cA537nbd)
 
+系统简称、子项目标识与文档编号前缀须从上述《知识库文档编写与维护规则》实时读取；本文件仅保存治理文档入口，不缓存简称表。
+
 ## 目录定位原则
 
 每次执行时均须通过 `wiki +node-list --as user --space-id 7137888100423991298` 和目标父节点的子目录重新核实目录。知识库可能持续调整，本文件只提供入口和稳定的治理依据，不是节点 token 的缓存。
