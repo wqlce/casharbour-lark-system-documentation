@@ -1,7 +1,8 @@
 .DS_Store
 
-# 本机认证和临时文件不得提交
+# 本机认证、版本缓存和临时文件不得提交
 .env
 *.log
 auth.json
 config.toml
+.skill-version
